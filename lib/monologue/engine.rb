@@ -1,5 +1,5 @@
 require "truncate_html"
-require "ckeditor"
+require "redactor-rails"
 require "select2-rails"
 
 module Monologue

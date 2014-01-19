@@ -1,3 +1,9 @@
+# Monologue with Redactor.
+
+- CKEditor needs some serious dieting. Pre-compilation takes too long time. It gave up while pushing to heroku
+- Using [redactor-rails](https://github.com/SammyLin/redactor-rails) to integrate redactor with monologue
+
+
 # Monologue
 Monologue is a basic mountable blogging engine in Rails built to be easily mounted in an already existing Rails app, but it can also be used alone.
 
